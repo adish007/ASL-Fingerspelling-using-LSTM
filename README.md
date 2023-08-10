@@ -28,4 +28,7 @@ The overall architecture is a sequence-to-sequence model with two LSTM layers, f
 
 The model is trained with fit method using the training data set and validated on validation set using 20 epochs. Created a custom callback called Display Outputs
 to display model outputs during training. It essentially converts the tensor numeric representation into textual phrases. 
-
+![Step1](https://github.com/adish007/ASL-Fingerspelling-using-LSTM/assets/34896163/019f8da0-37cb-4ee0-bc85-cb745013f640)
+![Step2](https://github.com/adish007/ASL-Fingerspelling-using-LSTM/assets/34896163/d95be673-a953-49ac-81e9-b516488dedf0)
+![Step3](https://github.com/adish007/ASL-Fingerspelling-using-LSTM/assets/34896163/b028e57a-b444-4217-b282-a8ce6b705b33)
+![Step4](https://github.com/adish007/ASL-Fingerspelling-using-LSTM/assets/34896163/38b1e530-c4f6-491d-9f33-2202bbf83143)
